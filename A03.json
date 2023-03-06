@@ -3,10 +3,10 @@
     { 
       "ADMOB_BANNER":"ca-app-pub-3196772230781694/4941540802",
       "ADMOB_INTERS":"ca-app-pub-3196772230781694/9630825278", 
-      "MAX_BANNER":"9e106ff70404d381xxx",
-      "MAX_INTERS":"5348fa1b8d95256axxx",
+      "MAX_BANNER":"0d3f9492e541b775",
+      "MAX_INTERS":"d2149090590a3063",
  
-      "INTERVAL": 2
+      "INTERVAL": 1
     }
   ]
 }
