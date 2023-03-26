@@ -1,0 +1,17 @@
+{
+  "Ads": [
+    { 
+      "ADMOB_BANNER":"ca-app-pub-3196772230781694/8641133420",
+      "ADMOB_BANNER_RECTANGLE":"ca-app-pub-3940256099942544/6300978111xx",
+      "ADMOB_INTERS":"ca-app-pub-3196772230781694/6474398416", 
+      "ADMOB_NATIVE":"ca-app-pub-3940256099942544/2247696110xx",
+      
+      "MAX_BANNER":"70d9e13b4124e22d",
+      "MAX_INTERS":"6a8c7d3f9182d595",
+      "MAX_NATIVE":"1995d7ef3e0f8e99",
+ 
+      "ADS_INTERVAL":10,
+      "MAX_INTERVAL":2
+    }
+  ]
+}
