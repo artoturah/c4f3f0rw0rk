@@ -10,8 +10,8 @@
       "MAX_INTERS":"6a8c7d3f9182d595",
       "MAX_NATIVE":"1995d7ef3e0f8e99",
  
-      "ADS_INTERVAL":2,
-      "MAX_INTERVAL":5
+      "ADS_INTERVAL":1,
+      "MAX_INTERVAL":10
     }
   ]
 }
